@@ -4,7 +4,7 @@ Versão Proffy em mobile
 </h1>
 
 <div align="center" >
-  <img src="https://user-images.githubusercontent.com/53954022/89295816-e878d600-d637-11ea-8377-349683a42605.png" alt="proffy">
+  <img src="https://user-images.githubusercontent.com/53954022/89956813-38453780-dc0c-11ea-916a-25cb74587ff7.png" alt="proffy">
 </div>
 
 
@@ -23,9 +23,7 @@ Conectar alunos com professores virtualmente.
 
 Nessa aplicação está sendo  construído a stack ReactJS + React Native + NodeJS, utilizando também de TypeScript.
 
-<div align="center" >
-  <img src="https://user-images.githubusercontent.com/53954022/89295880-034b4a80-d638-11ea-95bf-4a29ac64d18e.jpg" alt="Pagina">
-</div>
+<hr />
 
 Made with by Micaela Andrade </br>
 [LinkedIn](https://www.linkedin.com/in/micaela-andrade-a9a17a64/) | [Email](mailto:micaela.andrade@outlook.com)
